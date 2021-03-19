@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @iceman-brandon
-- Studying...
+- 👋 Hi, I’m Brandon
+- Bachelor of Arts (studied Psychology)
+- Studying, Coding...
 
  <div align=center>
   
