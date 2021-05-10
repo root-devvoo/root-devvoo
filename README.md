@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon
 - Bachelor of Arts (studied Psychology)
-- Studying... Coding...
+- Studying... Coding
 
  <div align=center>
   
