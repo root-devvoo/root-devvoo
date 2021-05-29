@@ -26,8 +26,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iceman-brandon" height="160">
 
 ### What I Like
-
-
 - 🥁 Playing Drums
 - 🏊‍♂️ Swimming
 
