@@ -1,3 +1,7 @@
+<h3>iceman-Brandon</h3>
+
+---
+
 - 👋 Hi, I’m Brandon
 - Bachelor of Arts (studied Psychology)
 - Studying... Coding
@@ -10,4 +14,4 @@
 
 <br/>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwcnet93">
+<img align='letf' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwcnet93">
