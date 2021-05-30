@@ -33,5 +33,7 @@
 - 🥁 Playing Drums
 - 🎧 Music   
 - 🏊‍♂️ Swimming
-- ⚽ Sports  
+- ⚽ Sports
+- 🛫 Travel
+- 🚗 Car   
 </div>
