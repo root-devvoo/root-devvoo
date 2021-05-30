@@ -33,6 +33,6 @@
 - 🥁 Playing Drums
 - 🎧 Music   
 - ⚽ Sports
-- 🛫 Travel
+- ✈ Travel
 - 🚗 Car   
 </div>
