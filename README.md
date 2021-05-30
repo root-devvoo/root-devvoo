@@ -32,7 +32,6 @@
 ### What I Like
 - 🥁 Playing Drums
 - 🎧 Music   
-- 🏊‍♂️ Swimming
 - ⚽ Sports
 - 🛫 Travel
 - 🚗 Car   
