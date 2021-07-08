@@ -4,7 +4,7 @@
 <br>
 
 <div>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwcnet93">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwcnet93" height="155">
  
 ### About me
 - 👋 Hi, I’m Brandon
