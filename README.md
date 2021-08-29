@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
-- 💻 Studying Programming & AI       
+- 💻 Studied Programming & AI       
 - 🎯 Studying Algorithm
   </div>
   <br>
