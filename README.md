@@ -34,7 +34,7 @@
 </div>
 </div>
 
-#### AI
+#### Data Analysis & AI
 <div>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
