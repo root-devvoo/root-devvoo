@@ -6,7 +6,7 @@
 <div>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwcnet93">
 
-### 👣 About me
+## 👣 About me
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
@@ -15,7 +15,7 @@
   </div>
   <br>
 
-### 💪 My Skills
+## 💪 My Skills
 #### Backend
 <div>   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -80,7 +80,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iceman-brandon&show_icons=true&theme=tokyonight" height="160">
 
 
-### 🤩 What I Like
+## 🤩 What I Like
 
 - 🥁 Playing Drums
 - 🎧 Music   
