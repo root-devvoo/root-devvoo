@@ -12,8 +12,8 @@
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
-- 💻 Studied Programming & AI       
-- 🎯 Studying Algorithm
+- 💻 Studied Web Programming & AI       
+- 🎯 Studying Computer Science & Algorithm
   </div>
   <br>
 
