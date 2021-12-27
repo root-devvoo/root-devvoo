@@ -8,7 +8,7 @@
 <div>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwcnet93">
 
-## 👣 About me
+## 📝 About me
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
