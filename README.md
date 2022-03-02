@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
 - 💻 Studied Web Programming & AI       
-- 🎯 Studying Computer Science & Algorithm
+- 🎯 Working as a Web Developer
   </div>
   <br>
 
