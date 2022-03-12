@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
 - 💻 Studied Web Programming & AI       
-- 🎯 Working as a Web Application Developer<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(🏙️ Metaverse, Digital twin)
+- 🎯 Working as a Web Application Developer<br>🏙️ Metaverse, Digital twin
   </div>
   <br>
 
