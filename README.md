@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
 - 💻 Studied Web Programming & AI       
-- 🎯 Working as a Web Application Developer<br>🏙️ Metaverse, Digital twin
+- 🧑🏻‍💻 Web Application Developer
   </div>
   <br>
 
@@ -75,6 +75,9 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+  
+  <img src="https://img.shields.io/badge/Travis CI-2496ED?style=flat-square&logo=TravisCI&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-3EAAAF?style=flat-square&logo=Jenkins&logoColor=black"/></a>
   
 #### Collaboration
 
