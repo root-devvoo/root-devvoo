@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
-- 💻 Studied Web Programming & AI       
+- 💻 Studied Web Programming (Full Stack) & AI       
 - 🧑🏻‍💻 `March ~ May.2022`<br>Worked as a Web Application Developer (Metaverse, Digital Twin)<br>at VAIV Company Inc.
   </div>
   <br>
