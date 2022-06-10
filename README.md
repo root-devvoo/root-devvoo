@@ -13,7 +13,7 @@
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
 - 💻 Studied Web Programming & AI       
-- 🧑🏻‍💻 Web Application Developer
+- 🧑🏻‍💻 `March ~ May.2022`<br>Worked as a Web Application Developer (Metaverse, Digital Twin)<br>at VAIV Company Inc.
   </div>
   <br>
 
@@ -64,6 +64,7 @@
   
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=Jinja&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 </div>
