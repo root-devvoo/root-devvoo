@@ -12,8 +12,9 @@
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
-- 💻 Studied Web Programming (Full Stack) & AI       
+- 💻 Studied Web Programming (Full Stack) & AI at Encore Playdata       
 - 🧑🏻‍💻 `March ~ May.2022`<br>Worked as a Web Application Developer (Metaverse, Digital Twin)<br>at VAIV Company Inc.
+- ☁️ Studying DevOps & Cloud at Goorm(구름)
   </div>
   <br>
 
