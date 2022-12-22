@@ -13,7 +13,7 @@
 - 🎓 Bachelor of Arts (studied Psychology)
 - 💻 Studied Web Programming & AI at Encore Playdata       
 - 🧑🏻‍💻 Worked as a Web Application Developer (Metaverse, Digital Twin)<br>at VAIV Company Inc.
-- ☁️ Studied DevOps & Cloud at Goorm(구름)
+- ☁️ Studied DevOps & Cloud at Goorm
   </div>
   <br>
 
