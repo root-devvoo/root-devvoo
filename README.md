@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/Travis CI-2496ED?style=flat-square&logo=TravisCI&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Jenkins-3EAAAF?style=flat-square&logo=Jenkins&logoColor=black"/></a>
