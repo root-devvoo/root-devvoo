@@ -14,6 +14,7 @@
 - 💻 Studied Web Programming & AI at Encore Playdata       
 - 🧑🏻‍💻 Worked as a Web Application Developer (Metaverse, Digital Twin)<br>at VAIV Company Inc.
 - ☁️ Studied DevOps & Cloud at Goorm
+- 🧑🏻‍💻 Experienced as a DevOps Intern at Daou Technology Inc.
   </div>
   <br>
 
