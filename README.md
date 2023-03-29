@@ -11,13 +11,18 @@
 
 - 👋 Hi, I’m Brandon
 - 🎓 Bachelor of Arts (studied Psychology)
-- 💻 Studied Web Programming & AI at Encore Playdata       
-- 🧑🏻‍💻 Worked as a Web Application Developer (Metaverse, Digital Twin)<br>at VAIV Company Inc.
-- ☁️ Studied DevOps & Cloud at Goorm
-- 🧑🏻‍💻 Experienced as a DevOps Intern at Daou Technology Inc.
-  </div>
-  <br>
+- 💻 2021.08 엔코아 플레이데이터 "프로젝트 기반 인공지능 응용 SW 개발 및 데이터 분석 과정" 수료       
+- ☁️ 2022.11 ㈜구름 "쿠버네티스 전문가 양성 과정" 수료
+</div>
 
+<div>
+
+## 📚 Career
+
+- 🧑🏻‍💻 2022.03 - 2022.05 ㈜바이브컴퍼니 Web Application Developer(Metaverse, Digital Twin) 인턴
+- 🧑🏻‍💻 2023.02 - 2023.03 ㈜다우기술 DevOps Engineer 인턴
+</div>
+  
 ## 💪 My Skills
 
 #### DevOps
