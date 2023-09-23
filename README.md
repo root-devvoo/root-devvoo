@@ -74,6 +74,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 </div>
+
+#### AI
+<div>   
+  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+</div>
 </div>
 
 <div>
