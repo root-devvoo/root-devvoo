@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/></a>
 
 #### Collaboration
 
