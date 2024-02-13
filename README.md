@@ -1,4 +1,4 @@
-# Victor Jung 😎
+# Woocheol Jung 😎
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficeman-brandon%2F&count_bg=%23009DF5&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:root.devvoo@gmail.com)
@@ -11,7 +11,7 @@
 
 ## 📝 About me
 
-- 👋 Hi, I’m Victor
+- 👋 Hi, I’m Woocheol
 - 🎓 Bachelor of Arts (studied Psychology)
 - 💻 2021.08 엔코아 플레이데이터 "프로젝트 기반 인공지능 응용 SW 개발 및 데이터 분석 과정" 수료       
 - ☁️ 2022.11 ㈜구름 "쿠버네티스 전문가 양성 과정" 수료
