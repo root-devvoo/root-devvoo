@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:root.devvoo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devvoo//)
 [![TechBlog Badge](https://img.shields.io/badge/Tech_Blog-00D182?style=flat&logo=GitHub&logoColor=white)](https://root-devvoo.github.io/)
-[![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@root-devvoo)
+[![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@root-devvoo)
 
 <br>
 
