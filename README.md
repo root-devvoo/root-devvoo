@@ -22,6 +22,7 @@
 <div>
 
 ## 📚 Career
+- 🧑🏻‍💻 2024.06 - 현재 마이데이터㈜ DevOps Engineer 주임연구원
 - 🧑🏻‍💻 2023.06 - 2024.03 Crypted DevOps Engineer 
 - 🧑🏻‍💻 2023.02 - 2023.03 ㈜다우기술 DevOps Engineer 인턴사원
 - 🧑🏻‍💻 2022.03 - 2022.05 ㈜바이브컴퍼니 Web Application Developer 인턴
