@@ -14,6 +14,9 @@
 
 - 👋 Hi, I’m Woocheol
 - 🎓 Bachelor of Arts (studied Psychology)
+</div>
+<div>
+  
 - 🪪 2024.12 CKA: Certified Kubernetes Administrator
 - 🪪 2024.06 정보처리기사 취득
 - ☁️ 2022.11 ㈜구름 "쿠버네티스 전문가 양성 과정" 수료
