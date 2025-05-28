@@ -1,10 +1,8 @@
 # Woocheol Jung 😎
 
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Froot-devvoo?color=blue&label=Hits&size=small)](https://myhits.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:root.devvoo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devvoo//)
 [![velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@root-devvoo)
-
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devvoo//)
 <br>
 
 
@@ -16,7 +14,7 @@
 - 🎓 Bachelor of Arts (studied Psychology)
 </div>
 <div>
-  
+
 - 🪪 2024.12 CKA: Certified Kubernetes Administrator
 - 🪪 2024.06 정보처리기사 취득
 - ☁️ 2022.11 ㈜구름 "쿠버네티스 전문가 양성 과정" 수료
@@ -61,6 +59,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>
 </div>
 
 #### Backend
